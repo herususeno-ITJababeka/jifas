@@ -670,7 +670,7 @@
                           "uniqueKey": "exT4ho80hPg5w+oS46t1Q2pHhQ1HHxbNv0Czk7dgE9E=",
                           "NodeKind": 4,
                           "TechnologyType": 1,
-                          "Name": "CreateSpan",
+                          "Name": "CreateSpan0",
                           "FindExpressions": [
                             {
                               "Key": 1,
@@ -5959,8 +5959,8 @@
     "Path": "Receiving\\Create\\Create Invoice IK.tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "7169da50-4201-43de-bec2-80b6b72f9b47",
-    "Id": "7169da50-4201-43de-bec2-80b6b72f9b47",
+    "UniqueId": "d887b0b7-e670-4c2c-9f8e-0be8b0324c74",
+    "Id": "d887b0b7-e670-4c2c-9f8e-0be8b0324c74",
     "ProjectId": "8a86b02e-2bea-4aaf-8e16-017926d752b2",
     "Version": 210
   }

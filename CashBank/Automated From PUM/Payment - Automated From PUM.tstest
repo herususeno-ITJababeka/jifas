@@ -875,7 +875,7 @@
                           "Title": "Payment - JIFAS",
                           "CompareMode": 1,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "PaymentJIFAS"
+                          "FriendlyName": "PaymentJIFAS2"
                         }
                       },
                       "Frame": null,
@@ -1049,7 +1049,7 @@
                           "Title": "Payment - JIFAS",
                           "CompareMode": 1,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "PaymentJIFAS"
+                          "FriendlyName": "PaymentJIFAS2"
                         }
                       },
                       "Frame": null,
@@ -1189,7 +1189,7 @@
                           "Title": "Payment - JIFAS",
                           "CompareMode": 1,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "PaymentJIFAS"
+                          "FriendlyName": "PaymentJIFAS2"
                         }
                       },
                       "Frame": null,
@@ -1357,7 +1357,7 @@
                           "Title": "Payment - JIFAS",
                           "CompareMode": 1,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "PaymentJIFAS"
+                          "FriendlyName": "PaymentJIFAS2"
                         }
                       },
                       "Frame": null,
@@ -1525,7 +1525,7 @@
                           "Title": "Payment - JIFAS",
                           "CompareMode": 1,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "PaymentJIFAS"
+                          "FriendlyName": "PaymentJIFAS2"
                         }
                       },
                       "Frame": null,
@@ -1653,7 +1653,7 @@
                           "Title": "Payment - JIFAS",
                           "CompareMode": 1,
                           "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "PaymentJIFAS"
+                          "FriendlyName": "PaymentJIFAS2"
                         }
                       },
                       "Frame": null,
@@ -1786,8 +1786,8 @@
     "Path": "CashBank\\Automated From PUM\\Payment - Automated From PUM.tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "0ecef98e-936e-4c77-a348-5aaf5ecffef4",
-    "Id": "0ecef98e-936e-4c77-a348-5aaf5ecffef4",
+    "UniqueId": "142d2cb1-315c-4af0-b74d-06ebe02ab2f1",
+    "Id": "142d2cb1-315c-4af0-b74d-06ebe02ab2f1",
     "ProjectId": "8a86b02e-2bea-4aaf-8e16-017926d752b2",
     "Version": 210
   }
