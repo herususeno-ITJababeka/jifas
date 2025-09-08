@@ -211,8 +211,20 @@
     "DefaultDesktopApplicationWorkingFolder": null,
     "UseLegacySilverlightFindLogic": false,
     "ProjectGuid": "8a86b02e-2bea-4aaf-8e16-017926d752b2",
-    "SourceControlRepository": null,
-    "IsOnline": false,
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/HeruSuseno/dxbdbbd.git",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/HeruSuseno/dxbdbbd.git"
+          }
+        },
+        "ServerType": 2
+      }
+    },
+    "IsOnline": true,
     "ProjectLanguage": 0,
     "ProjectReferences": [
       "System",
@@ -237,7 +249,11 @@
     "AssemblyName": "Jifas",
     "OutputFolder": "bin",
     "ExcludedFiles": [],
-    "InDevelopmentFiles": [],
+    "InDevelopmentFiles": [
+      "CashBank\\Create\\Receiving.tstest",
+      "CashBank\\Automated From PUM\\Payment - Automated From PUM.tstest",
+      "CashBank\\Automated From PUM\\Receiving - Automated From PUM.tstest"
+    ],
     "DisabledTranslators": [],
     "SkipFindExpressionSetDataDrivenWarning": false,
     "BugTrackerPersistableSettings": {},
